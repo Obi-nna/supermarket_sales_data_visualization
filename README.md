@@ -9,3 +9,5 @@ This bar chart shows the total sales for each product line across the three Bran
 
 
 ![image](https://user-images.githubusercontent.com/99766998/156861307-67b80d9e-818e-477d-ab23-05d893c02557.png)
+
+A total of 1000 ratings were recorded across the branches. Most customer ratings ranged from 6 to 9, with the highest number, 174 customers rating 6. Seventy-one customers rated ten, and none rated less than 4. It will assist the supermarket in optimising its sales strategy.
