@@ -22,3 +22,5 @@ In the above bar chart, male customers in branches A and B preferred the e-walle
 The graph above shows Branch B had the highest gross income on Health and beauty, Home and Lifestyle, and Electronic accessories, followed by Branch C on Electronic accessories, Food and beverages, and Fashion accessories in January and March. Branch A generated the least gross income on Home and Lifestyle and Health and Beauty in February and March, compared to Branch B and C. In addition, when compared to Branch A and B, Branch C had the lowest gross income on Sports and Travel and Fashion accessories in February and March, respectively. We can see that branch B generated more gross income than branches A and C.
 
 ![image](https://user-images.githubusercontent.com/99766998/156868377-b588fb61-d911-4918-a1b9-1b30ae8f4e48.png)
+
+This graph shows a correlation between the unit price and gross income, indicating that products with high unit prices increase gross income. Based on this analysis, the gross margin percentage on each product line is consistent.
