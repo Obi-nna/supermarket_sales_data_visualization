@@ -2,5 +2,7 @@
 Supermarket Sales
 
 In this visualization, we use R programming to gain insight into supermarket sales data.
-![image](https://user-images.githubusercontent.com/99766998/156859453-05a77e2f-a2f1-452c-ad6a-78090d4352fb.png)
+
+![image](https://user-images.githubusercontent.com/99766998/156859718-e1db951f-a226-472a-bd70-74ee3d075558.png)
+
 
