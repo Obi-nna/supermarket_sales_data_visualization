@@ -15,4 +15,4 @@ A total of 1000 ratings were recorded across the branches. Most customer ratings
 
 ![image](https://user-images.githubusercontent.com/99766998/156864243-c723b4d9-a07b-4c18-ae63-a15153137550.png)
 
-In the above bar chart, males in branches A and B preferred the e-wallet payment method, while females in branches A and C preferred the cash payment method. Minor payment methods for males were credit card in branch C and credit card in branch A for females. This analysis reveals a difference in payment preferences between males and females across the branches.
+In the above bar chart, male customers in branches A and B preferred the e-wallet payment method, while female customers in branches A and C preferred the cash payment method. For male and female customers, the minor payment methods were credit card in branch C and branch A, respectively. This analysis reveals a difference in payment preferences between male and female customers across the branches.
