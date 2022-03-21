@@ -2,7 +2,7 @@ library(tidyverse)
 library(lubridate)
 library(ggplot2)
 
-smkt<-read.csv("C:/Users/Obinna/Desktop/MA304Reassessment/supermarket_sales.csv",sep=",", header=T, stringsAsFactors=T)
+smkt<-read.csv("C:/Users/Obinna/Desktop/supermarket_sales.csv",sep=",", header=T, stringsAsFactors=T)
 
 
 .........#Number of product line sold per Branch from Jan 2019 to March 2019#..........
